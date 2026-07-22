@@ -1,8 +1,8 @@
 version=V.1.0
 versionCode=1
 minSdkVersion=33
-id=FloatingFeaturePatch
-name=Floating Feature Unlock
+id=Basic-OneUI-Feature-Unlocker
+name=Basic-OneUI-Feature-Unlocker
 author=HeheJuice 
 description=Unlock some removed features on all Galaxy 
 updatejson=https://raw.githubusercontent.com/HeheJuice/Basic-OneUI-Feature-Unlocker/refs/heads/main/Main/Module/update.json
