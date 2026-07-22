@@ -13,7 +13,7 @@
  * Apply `CNHighEnd` Animation
  * Restore `Clock Transition` and `Active Clock` for AOD devices
  * Restore `Screen Recorder`
- * Unlocks High Performance Mode and Enhanced CPU Responsiveness Options
+ * Unlocks `High Performance Mode` and `Enhanced CPU Responsiveness Options`
  * Unlock Frame Effects From Flagship
 
 
