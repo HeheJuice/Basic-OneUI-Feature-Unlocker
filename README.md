@@ -8,7 +8,7 @@
 - Auto Value Change Depends on Device
 
 #### ✅ Added the following 
- * Add `Google` and `Samsung News` Support to -1 Page
+ * Add `Google` ,`Bixby Home CN` and `Samsung News` Support to -1 Page
  * Add `Interview` and `Voicemono` to Samsung Recorder
  * Apply `CNHighEnd` Animation
  * Restore `Clock Transition` and `Active Clock` for AOD devices
