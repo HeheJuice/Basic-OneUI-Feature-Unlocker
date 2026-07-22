@@ -10,15 +10,15 @@
 #### ✅ Added the following 
  * Add `Google` ,`Bixby Home CN` and `Samsung News` Support to -1 Page
  * Add `Interview` and `Voicemono` to Samsung Recorder
- * Add Extra Dim Mode
+ * Add `Extra Dim Mode`
  * Apply `CNHighEnd` Animation
  * Restore `Clock Transition` and `Active Clock` for AOD devices
  * Restore `Screen Recorder`
  * Unlocks `High Performance Mode` and `Enhanced CPU Responsiveness Options`
- * Unlock Frame Effects From Flagship
- * Unlock Camera Privacy Toggle 
- * Unlock Camera OCR V2
- * Unlock Up to 5 Multi Users
+ * Unlock `Frame Effects` From Flagship
+ * Unlock `Camera Privacy Toggle`
+ * Unlock `Camera OCR V2`
+ * Unlock `Up to 5 Multi Users`
  
 
 
