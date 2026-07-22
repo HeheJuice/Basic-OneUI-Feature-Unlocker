@@ -8,3 +8,10 @@
 - Restore Cock Transition for AOD devices
 - Restore Screen Recorder 
 - Add Interview and Voicemono to Samsung Recorder 
+
+### Added the following (Dynamic)
+ * Add Google and Samsung News Support to -1 Page
+ * Add Interview and Voicemono to Samsung Recorder
+ * Apply CNHighEnd Animation
+ * Restore Clock Transition for AOD devices
+ * Restore Screen Recorder
