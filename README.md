@@ -1,7 +1,8 @@
 ## 🗺️ Floating-Feature-Unlocker
-![Magisk Module](https://img.shields.io/badge/Magisk-Module-brightgreen.svg)
-![Target OS](https://img.shields.io/badge/Target-Samsung%20One%20UI-1076C8.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-26A5E4?style=flat-square&logo=Telegram)](https://t.me/channelhehejuice)
+[![Chat](https://img.shields.io/badge/Telegram-Chat-26A5E4?style=flat-square&logo=Telegram)](https://t.me/sechehe)
+![Magisk](https://img.shields.io/badge/Root-Required-F48FB1?style=flat-square&logo=magisk)
+[![MinSDK](https://img.shields.io/badge/Min_SDK-33-brightgreen?style=flat-square&logo=android)](https://developer.android.com/about/versions)
 - A Magisk Module That Auto Unlock More Features By Modifying `floating_feature.xml`
 - Support all Galaxy Devices running OneUI 5 and UP
 
