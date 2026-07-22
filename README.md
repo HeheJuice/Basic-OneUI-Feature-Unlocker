@@ -10,8 +10,10 @@
  * Add Google and Samsung News Support to -1 Page
  * Add Interview and Voicemono to Samsung Recorder
  * Apply CNHighEnd Animation
- * Restore Clock Transition for AOD devices
+ * Restore Clock Transition and Active Clock for AOD devices
  * Restore Screen Recorder
+ * Unlocks High Performance Mode and Enhanced CPU Responsiveness Options
+ * Unlock Frame Effects From Flagship
 
 
 
