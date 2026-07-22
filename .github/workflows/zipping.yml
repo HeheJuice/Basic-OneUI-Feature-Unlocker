@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     
     permissions:
-      contents: write # Required to allow the workflow to commit and push changes back to the repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -24,7 +24,7 @@ jobs:
       - name: Zip target folder
         run: |
 
-          cd main/files/
+          cd Main/files/
           zip -r ../../build/FeatureUnlocker.zip .
           cd -
 

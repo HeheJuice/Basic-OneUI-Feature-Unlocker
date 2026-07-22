@@ -1,0 +1,1 @@
+am start -a android.intent.action.VIEW -d https://github.com/HeheJuice/Basic-OneUI-Feature-Unlocker &>/dev/null
