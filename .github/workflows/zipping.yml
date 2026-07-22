@@ -1,0 +1,38 @@
+name: Zip and Push to Build
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'build/**'
+
+jobs:
+  build-zip:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # Required to allow the workflow to commit and push changes back to the repo
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create build directory
+        run: mkdir -p build
+
+      - name: Zip target folder
+        run: |
+
+          cd main/files/
+          zip -r ../../build/FeatureUnlocker.zip .
+          cd -
+
+      - name: Commit and push zip to build folder
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-generated zip archive in build folder"
+          branch: main
+          file_pattern: build/*.zip
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
