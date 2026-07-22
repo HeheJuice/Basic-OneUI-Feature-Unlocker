@@ -6,12 +6,12 @@
 - A Magisk Module That Auto Unlock More Features By Modifying `floating_feature.xml`
 - Support all Galaxy Devices running OneUI 5 and UP
 
-#### ✅ Added the following (Auto Value Change Depends on Device)
- * Add Google and Samsung News Support to -1 Page
+#### ✅ Added the following `Auto Value Change Depends on Device`
+ * Add `Google` and `Samsung News` Support to -1 Page
  * Add Interview and Voicemono to Samsung Recorder
- * Apply CNHighEnd Animation
- * Restore Clock Transition and Active Clock for AOD devices
- * Restore Screen Recorder
+ * Apply `CNHighEnd` Animation
+ * Restore `Clock Transition` and `Active Clock` for AOD devices
+ * Restore `Screen Recorder`
  * Unlocks High Performance Mode and Enhanced CPU Responsiveness Options
  * Unlock Frame Effects From Flagship
 
