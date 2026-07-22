@@ -10,7 +10,7 @@
 
 ## 🗺️ Basic-OneUI-Feature-Unlocker
 - A Magisk Module That Auto Unlock More Features By Modifying `floating_feature.xml` and `system.prop`
-- Support all Galaxy Devices running `OneUI 5 and UP`
+- Support ALL Galaxy Devices running `OneUI 5 and UP`
 - Auto Value Change Depends on Device
 
 #### ✅ Added the following 
